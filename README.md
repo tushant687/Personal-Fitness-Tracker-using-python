@@ -1,5 +1,5 @@
 
-# Personal Fitness Tracker**  
+# Personal Fitness Tracker
 
 1. Overview  
 The **Personal Fitness Tracker** is a Streamlit-based web application that predicts the number of kilocalories burned during exercise based on user input parameters such as age, BMI, heart rate, body temperature, and duration of the exercise.
